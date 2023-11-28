@@ -1,4 +1,4 @@
-### Hello👋, I am a backend developer.
+### Hello👋, I'm a backend developer.
 ### My most powerful weapon is “sincerity” and my goal is to 1 commit 1 day.
 
 
