@@ -1,5 +1,5 @@
 ### Hello👋, I'm a backend developer.
-//### My most powerful weapon is “sincerity” and my goal is to 1 commit 1 day.
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Chong's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
